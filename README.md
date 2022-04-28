@@ -50,8 +50,8 @@ py.ylabel("loss")
 
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: 
-RegisterNumber:  
+Developed by: vijay ganesh N
+RegisterNumber:  212221040177
 */
 ```
 
