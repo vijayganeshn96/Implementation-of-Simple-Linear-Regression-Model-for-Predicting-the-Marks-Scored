@@ -56,8 +56,8 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
+![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/exp1.png)!
+![output](
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
