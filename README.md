@@ -8,10 +8,13 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the packages required.
+2. Read the datas from the file.
+3. Assign the values to x,y and decler other datas.
+4. Predict the scores of student.
+5. Print the predicted datas.
+6. Plot the points in the graph.
+7. Label the axis.
 
 ## Program:
 ```import numpy as np
@@ -50,7 +53,7 @@ py.ylabel("loss")
 
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: vijay ganesh N
+Developed by: Vijay Ganesh N
 RegisterNumber:  212221040177
 */
 ```
@@ -61,5 +64,6 @@ RegisterNumber:  212221040177
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114349.png)
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114428.png)
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114502.png)
+![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114535.png)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
