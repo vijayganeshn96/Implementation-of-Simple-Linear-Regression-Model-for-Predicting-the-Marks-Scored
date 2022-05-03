@@ -14,7 +14,10 @@ To write a program to implement the simple linear regression model for predictin
 4. Predict the scores of student.
 5. Print the predicted datas.
 6. Plot the points in the graph.
-7. Label the axis.
+7. Get the best fit line.
+8. Label the axis.
+9. Draw a graph for Study hours vs Scores,
+10. End .
 
 ## Program:
 ```import numpy as np
@@ -59,8 +62,7 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/exp1.png)!
-![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114535.png)
+![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/exp1.png)
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114349.png)
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114428.png)
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114502.png)
