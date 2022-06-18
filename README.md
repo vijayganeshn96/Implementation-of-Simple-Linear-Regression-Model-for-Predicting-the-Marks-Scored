@@ -20,7 +20,14 @@ To write a program to implement the simple linear regression model for predictin
 10. End .
 
 ## Program:
-```import numpy as np
+```
+/*
+Program to implement the simple linear regression model for predicting the marks scored.
+Developed by: Vijay Ganesh N
+RegisterNumber:  212221040177
+*/
+
+import numpy as np
 import pandas as pd
 import matplotlib.pyplot as py
 data=pd.read_csv("student_scores .csv")
@@ -54,11 +61,6 @@ py.plot(loss)
 py.xlabel("iterations")
 py.ylabel("loss")
 
-/*
-Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: Vijay Ganesh N
-RegisterNumber:  212221040177
-*/
 ```
 
 ## Output:
