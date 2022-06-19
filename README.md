@@ -64,10 +64,15 @@ py.ylabel("loss")
 ```
 
 ## Output:
+### DATA HEAD:
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/exp1.png)
+### X.HEAD:
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114349.png)
+### Y.HEAD
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114428.png)
+### GRAPH 1
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114502.png)
+### GRAPH 2
 ![output](https://github.com/vijayganeshn96/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/main/Screenshot%202022-05-02%20114535.png)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
